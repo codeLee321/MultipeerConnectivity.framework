@@ -1,0 +1,2 @@
+# MultipeerConnectivity.framework
+MultipeerConnectivity.framework：iOS7开始引入的新的蓝牙通讯开发框架，用于取代GameKit。
